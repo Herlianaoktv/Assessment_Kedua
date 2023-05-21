@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Discount Calculate</string>
+    <string name="apk_intro">Lets Counting youre Discount</string>
+    <string name="diskon">Diskon (%)</string>
+    <string name="harga1">Harga (Rp.)</string>
+    <string name="jumlah_diskon">Jumlah Diskon</string>
+    <string name="total">Total Pembayaran</string>
+    <string name="hitung">Hitung</string>
+    <string name="reset">Reset</string>
+    <string name="intro">Aplikasi Discount calculate adalah jenis aplikasi yang dirancang untuk membantu pengguna menghitung diskon yang diberikan pada suatu produk atau layanan.</string>
+    <string name="harga_invalid">Harus masukkan jumlah harga</string>
+    <string name="diskon_invalid">Harus masukkan jumlah diskon</string>
+    <string name="keluar">Keluar</string>
+</resources>
