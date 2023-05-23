@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">DiscountCalculate</string>
+    <string name="apk_intro">Discount calculate</string>
+    <string name="diskon">Diskon (%)</string>
+    <string name="harga1">Harga (Rp.)</string>
+    <string name="jumlah_diskon">Jumlah Diskon</string>
+    <string name="total">Total Pembayaran</string>
+    <string name="hitung">Hitung</string>
+    <string name="reset">Reset</string>
+    <string name="intro">"A discount is a little joy that can brighten anyone's day." \n\ -Unknown-</string>
+    <string name="harga_invalid">Harus masukkan jumlah harga</string>
+    <string name="diskon_invalid">Harus masukkan jumlah diskon</string>
+    <string name="keluar">Keluar</string>
+    <string name="tentang_aplikasi">Tentang Aplikasi</string>
+    <string name="copyright">Discount Calculate adalah aplikasi yang dirancang untuk membantu pengguna menghitung jumlah diskon dari suatu harga atau menghitung harga setelah diskon .</string>
+    <string name="bagikan">Bagikan</string>
+    <string name="bagikan_template">Harga: Rp.%1$s \nDiskon: %2$s persen \n\nJumlah Diskon: %3$s \nTotal Bayar: %4$s </string>
+    <string name="belum_ada_data">Data belum tersedia</string>
+    <string name="histori">Histori</string>
+    <string name="hasil_x">Harga:Rp. %1$.0f - Diskon: %2$.0f persen</string>
+    <string name="data_x">Jumlah Diskon:Rp. %1$.0f - Total Pembayaran:Rp. %2$.0f</string>
+    <string name="hapus_histori">Hapus Histori</string>
+    <string name="konfirmasi_hapus">Hapus semua histori?</string>
+    <string name="hapus">Hapus</string>
+    <string name="batal">Batal</string>
+    <string name="action_switch_layout">Ubah Layout</string>
+    <string name="lainnya">Lainnya</string>
+    <string name="deskripsi">Berikut salah satu akun instagram\n yang memiliki pengikut terbanyak yang memberikan informasi seputar diskon yang sedang berlangsung \n\n https://instagram.com/giladiskonn?igshid=MzRlODBiNWFlZA==</string>
+</resources>
