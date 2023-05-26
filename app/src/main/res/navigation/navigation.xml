@@ -28,9 +28,9 @@
         tools:layout="@layout/fragment_about"/>
     <fragment
         android:id="@+id/historiFragment"
-        android:name="com.example.discountcalculate.ui.HitungFragment"
+        android:name="com.example.discountcalculate.ui.histori.HistoriFragment"
         android:label="@string/histori"
-        tools:layout="@layout/fragment_histori" />
+        tools:layout="@layout/fragment_histori"/>
     <fragment
         android:id="@+id/lainnyaFragment3"
         android:name="com.example.discountcalculate.ui.LainnyaFragment"
