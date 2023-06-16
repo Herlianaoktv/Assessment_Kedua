@@ -33,7 +33,7 @@
         tools:layout="@layout/fragment_histori"/>
     <fragment
         android:id="@+id/lainnyaFragment3"
-        android:name="com.example.discountcalculate.ui.LainnyaFragment"
+        android:name="com.example.discountcalculate.ui.Lainnya.LainnyaFragment"
         android:label="Lainnya"
         tools:layout="@layout/fragment_lainnya" />
 </navigation>
